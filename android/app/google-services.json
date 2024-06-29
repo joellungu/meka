@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "521714109954",
+    "project_id": "mekaapp-c92a1",
+    "storage_bucket": "mekaapp-c92a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714109954:android:525878b723cf581b44a11b",
+        "android_client_info": {
+          "package_name": "com.meka.meka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznw-ryyto9dPhN9eKyW_Of7CfHypmNXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714109954:android:64a1edb4ffc81cc944a11b",
+        "android_client_info": {
+          "package_name": "com.mekaapp.mekaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznw-ryyto9dPhN9eKyW_Of7CfHypmNXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714109954:android:76d788465a67b52d44a11b",
+        "android_client_info": {
+          "package_name": "com.mekaapp.mekaapp_agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznw-ryyto9dPhN9eKyW_Of7CfHypmNXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714109954:android:b653b465bb4b704444a11b",
+        "android_client_info": {
+          "package_name": "com.test.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznw-ryyto9dPhN9eKyW_Of7CfHypmNXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
